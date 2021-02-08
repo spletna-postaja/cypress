@@ -1,17 +1,16 @@
 {
-    "name": "laracasts/cypress",
+    "name": "spletna-postaja/cypress",
     "description": "Laravel Cypress Boilerplate",
     "keywords": [
-        "laracasts",
         "cypress"
     ],
-    "homepage": "https://github.com/laracasts/cypress",
+    "homepage": "https://github.com/spletna-postaja/cypress",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Jeffrey Way",
-            "email": "jeffrey@laracasts.com",
+            "name": "Spletna Postaja",
+            "email": "info@spletna-postaja.com",
             "role": "Developer"
         }
     ],
